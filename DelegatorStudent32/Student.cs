@@ -18,7 +18,7 @@ namespace DelegatorStudent32
 
         public override string ToString()
         {
-            return base.ToString();
+            return Name+" "+Score;
         }
     }
 }
